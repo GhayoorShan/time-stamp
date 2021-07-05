@@ -1,0 +1,33 @@
+.main-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  background-color: #d8e8e3;
+  padding: 20px 60px;
+}
+.inputs {
+  font-size: 30px;
+}
+.results {
+  font-size: 20px;
+}
+.alternatives {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header-container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.button {
+  max-width: 150;
+  margin: 20px;
+}
+
+h4 {
+  margin: 20px 0px;
+  font-size: 30px;
+}
